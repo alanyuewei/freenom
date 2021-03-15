@@ -8,7 +8,7 @@
  * @time 11:05
  * @link https://github.com/luolongfei/freenom
  */
-runs-on: self-hosted
+runs-on: self-hosted;
 error_reporting(E_ERROR);
 ini_set('display_errors', 1);
 set_time_limit(0);
